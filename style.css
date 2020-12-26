@@ -2,6 +2,9 @@ h1{
   color:blue;
   background:lightblue;
 }
-h2,img{
+h2{
+  text-align:center;
+}
+img{
   text-align:center;
 }
