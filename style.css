@@ -10,6 +10,6 @@ h2 img{
 }
 header p a{
   text-decoration:none;
-  border :1px thick double green;
+  border:thick double green;
   background-color:lightblue;
 }
