@@ -1,15 +1,23 @@
+body{
+  font-family: sans-serif;
+}
 h1{
-  color:blue;
-  background:lightblue;
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  background: black;
 }
-h2{
-  text-align:center;
+nav{
+  display: flex;
+  justify-content: space-around;
 }
-h2 img{
-  text-align:center;
+a{
+  text-decoration: none;
+  color: black;
+  background: white;
+  font-family: fantasy
 }
-header p a{
-  text-decoration:none;
-  border:thick double green;
-  background-color:lightblue;
+a:hover{
+  font-size: 20px;
+  color: grey;
 }
