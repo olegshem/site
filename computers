@@ -1,15 +1,23 @@
 <html>
   <head>
     <title>Notebooks</title>
+    <link rel="stylesheet" href="style.css"/>
   </head>
     <body>
       <header>
-        <div id="header">
-          <h1>Notebooks</h1>
-            <p class="descript">Выбери ноутбук по душе!</p>
-        </div>
+        <h1>Notebooks</h1>
+          <nav>
+            <a href="">first</a>
+            <a href="">second</a>
+            <a href="">third</a>
+            <a href="">fourth</a>
+          </nav>
       </header>
         <main>
+          <nav>
+          <img src="https://cutt.ly/ZbXQzJD">
+          <img src="https://cutt.ly/ZbXQmk4">
+          <img src="https://cutt.ly/obXQYpQ">
         </main>
           <footer>
           </footer>
